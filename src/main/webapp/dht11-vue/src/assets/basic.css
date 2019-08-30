@@ -1,0 +1,17 @@
+body{
+  margin:0;
+}
+.el-header{
+  background-color: #222222;
+  color: #ffffff;
+  line-height: 60px;
+  font-size: 28px;
+}
+
+.el-input{
+  padding-right: 10px;
+}
+
+.echarts{
+  margin: 0 auto;
+}
